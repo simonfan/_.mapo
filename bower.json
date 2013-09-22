@@ -2,7 +2,7 @@
   "name": "_.mapo",
   "version": "1.1.0",
   "dependencies": {
-    "underscore": "~1.5.1",
+    "underscore": "~1.5.1"
   },
   "devDependencies": {
     "qunit": "latest"
